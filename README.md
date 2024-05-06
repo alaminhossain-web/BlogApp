@@ -28,6 +28,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 6.Set Up Database Configuration: Open the .env file and configure your database connection settings, including database name, username, and password.
+
 7.Run Database Migrations (Optional): If the project includes database migrations, you can run them to create the necessary database tables:
 
 ```bash
